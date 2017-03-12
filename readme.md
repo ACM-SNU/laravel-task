@@ -1,4 +1,4 @@
-## WINUALL INTERNSHIP MODULE
+## Laravel Task
 
 Welcome to Winuall. To get selected in winuall as an intern you've to complete some tasks. You'll be evaluated on the basis of your ability to understand the tasks, programming skills, coding style and time taken to finish the tasks. You'll be solely evaluated on your backend skills. So don't worry about the frontend. You can keep it as crappy as you like :wink: Use of AJAX is encouraged.<br>You can read the contribution guidelines from [Contribution Guidelines](https://github.com/winuall/winuall-intern/blob/master/Documentation/contributing.md).<br>A quick tutorial to use Git is available at [Using Git](https://github.com/winuall/winuall-intern/blob/master/Documentation/Using_Git.rst).<br>Make sure you read [Writing a good commit](https://github.com/winuall/winuall-intern/blob/master/Documentation/Writing_a_good_commit.rst) before you start.
 
