@@ -13,7 +13,7 @@ Example of a good commit:
     This entrypoint helps to use the isAdmin middleware to be used properly.
     Now admin can access database queries as well.
 
-    Fixes https://github.com/winuall/winuall-internship-module/issues/21
+    Fixes https://github.com/ACM-SNU/laravel-task/issues/21
 
 - `QuestionController : Change question info entrypoint`: Describe the change in
    maximum of 50 characters.
@@ -21,7 +21,7 @@ Example of a good commit:
 - `This entrypoint.. ..for this`: Describe the reasoning of your changes
    in maximum of 72 characters per line.
 
-- `Fixes https://github.com/winuall/winuall-internship-module/issues/21`: Mention the URL
+- `Fixes https://github.com/ACM-SNU/laravel-task/issues/21`: Mention the URL
    of the issue it closes or fixes.
 
 At Winuall we are looking heavily at the maintainability of the code.
@@ -61,7 +61,7 @@ Example:
     It helps not writing more functions inside
     ``QuestionController`` for this.
 
-    Fixes https://github.com/winuall/winuall-internship-module/issues/21
+    Fixes https://github.com/ACM-SNU/laravel-task/issues/21
 
 Shortlog
 ~~~~~~~~
@@ -112,7 +112,7 @@ Example:
 
 ::
 
-    Fixes https://github.com/winuall/winuall-internship-module/issues/269
+    Fixes https://github.com/ACM-SNU/laravel-task/issues/269
 
 -  Should use the ``Fixes`` keyword if your commit fixes a bug, or ``Closes``
    if it adds a feature/enhancement.
@@ -141,7 +141,7 @@ Example 1 (fixed bug):
 
     When updating the .env, API key is now called from the environment file instead of hardcoding it.
 
-    Fixes https://github.com/winuall/winuall-internship-module/issues/269
+    Fixes https://github.com/ACM-SNU/laravel-task/issues/269
 
 Example 2 (implemented feature):
 ::
@@ -150,7 +150,7 @@ Example 2 (implemented feature):
 
     This massively helps students to check when the user/expert was last online.
 
-    Closes https://github.com/winuall/winuall-internship-module/issues/299
+    Closes https://github.com/ACM-SNU/laravel-task/issues/299
 
 Why Do We Need Good Commits?
 ----------------------------
