@@ -1,13 +1,12 @@
 # Contribution guide
 
-Thanks for applying as an intern for winuall.
 
 ## Workflow
 
 We follow gitflow workflow.
 
-However, there will be no direct push to master branch of main repository `github.com/winuall/winuall-internship-module`. <br>
-All the changes will be committed on a branch named `<your-username>`. And then you've to create a pull request to development branch of main repository `github.com/winuall/winuall-internship-module`.
+However, there will be no direct push to master branch of main repository `https://github.com/ACM-SNU/laravel-task`. <br>
+All the changes will be committed on a branch named `<your-username>`. And then you've to create a pull request to development branch of main repository `https://github.com/ACM-SNU/laravel-task`.
 Create a pull request as soon as you're finished with a feature. Don't shy. If required, we will give you advice to improve your PR, or else we will merge it.
 
 ## Prerequisite
@@ -26,7 +25,7 @@ Your system must have:
 ### Checkout main repo.
 
 ```bash
-git clone https://github.com/winuall/winuall-internship-module
+git clone https://github.com/ACM-SNU/laravel-task
 git checkout -b <your-username>
 ```
 
@@ -36,7 +35,7 @@ git checkout -b <your-username>
 We need to make a copy of `.env.example` as `.env`
 
 ```bash
-cd winuall-internship-module
+cd laravel-task
 cp .env.example .env
 ```
 
@@ -68,13 +67,13 @@ Once local site is ready, you can start contributing. There is one more setting 
 
 Some key terms:
 
-- Winuall Internship Module repo: Main repository of Winuall Internship Module https://github.com/winuall/winuall-internship-module
+- Laravel Task repo: Main repository https://github.com/ACM-SNU/laravel-task
 - remote: Git specific term to represent different repository.
 - origin: Default remote of git. On your checkout, it will represent your fork.
 - PR (pull request): It's you asking the Winuall Internship Module Repo to review and accept/reject your modifications.
 
 
-There are many tutorial/articles available for that but if you still have doubts, please email us (['shubhang@winuall.com',sahil@winuall.com]).
+There are many tutorial/articles available for that but if you still have doubts, please email us (['acm@snu.edu.in']).
 
 
 ```bash
