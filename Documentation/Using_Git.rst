@@ -24,18 +24,18 @@ Getting Started with Winuall
 
 First of all, you have to fork the repository you are going to contribute to.
 This will basically give you a clone of the repository to your own repository.
-You can do this by opening `this to fork the winuall repository <https://github.com/winuall/winuall-internship-module>`
+You can do this by opening `this to fork the winuall repository <https://github.com/ACM-SNU/laravel-task>`
 
 Grabbing winuall-internship-module on your local machine
 ------------------------------------
 
 Now you should clone the repository to your local machine so that you can have
 access to all the code locally and start fixing issues!
-To do this, you can use these to clone the winuall/winuall-internship-module repository:
+To do this, you can use these to clone the ACM-SNU/laravel-task repository:
 
 ::
 
-    $ git clone https://github.com/winuall/winuall-internship-module/
+    $ git clone https://github.com/ACM-SNU/laravel-task
 
 
 You should ideally clone the fork so that gets set to 'origin' automatically.
